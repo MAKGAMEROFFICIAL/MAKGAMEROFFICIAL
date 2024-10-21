@@ -6,7 +6,7 @@ Join [this discord server](https://discord.gg/6AG26JGvJA) to get information, he
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-- 🌱 Currently learning backend stuff in Web Development.
+- 🌱 Currently working on discord bots and activities (discord.js)
 
 <div align="center">
 <p align="center">
