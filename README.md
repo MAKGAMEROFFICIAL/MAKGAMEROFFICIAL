@@ -1,4 +1,4 @@
-# I am M.A.KGamer
+# I am M.A.KGAMER
 
 ## Beginner YouTuber, Gamer, Content Creator, and Developer
 
