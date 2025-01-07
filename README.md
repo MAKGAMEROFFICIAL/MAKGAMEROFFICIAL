@@ -4,11 +4,13 @@
 
 ### Currently a Student
 
-Join [this Discord server](https://discord.gg/6AG26JGvJA) for information, help, and support related to my Discord bots.
+Join our vibrant **[Discord community](https://discord.gg/6AG26JGvJA)** for insights, support, and updates on my Discord bots.
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 - 🌱 **Currently working on**: Discord bots and activities using `discord.js`
+- 🎮 **Gaming Focus**: Exploring new games and creating engaging content
+- 📚 **Learning**: Diving deeper into programming/coding
 
 <div align="center">
   <p align="center">
@@ -32,18 +34,28 @@ Join [this Discord server](https://discord.gg/6AG26JGvJA) for information, help,
 </p>
 </div>
 
-## 📘 Projects
+## 🎯 Latest Projects
 
-- **Discord Bots**: Developing interactive bots to enhance community engagement in Discord servers. 
-- **Gaming Content**: Sharing gameplay, tips, and tricks on YouTube to help fellow gamers.
+- **Discord Bots**: 
+  - *[Slasher](https://discord.com/oauth2/authorize?client_id=1260853952593924147)*: an advanced multipurpose bot
+- **Gaming Content**: 
+  - *Latest Video*:  - [Watch Here](youtube.com/@m.a.kgamer)
+  - *Live Streams*: [Stream](youtube.com/@m.a.kgamer)
 
-## 🚀 Skills
+## 🚀 Skills & Tools
 
-- **Languages**: JavaScript
-- **Frameworks/Libraries**: Discord.js
-- **Tools**: GitHub, Visual Studio Code
+- **Programming Languages**: JavaScript, [Python ,java and many more(for future projects)]
+- **Frameworks/Libraries**: Discord.js, Node.js
+- **Development Tools**: GitHub, Visual Studio Code, Git
+- **Design Tools**: Figma (for bot UI, if applicable)
 
 ## 📫 Connect with Me
 
-- **YouTube**: [M.A.KGamer](youtube.com/@m.a.kgamer)
-- **Twitter**: [M.A.KGamer](x.com/_makgamer)
+- **YouTube**: [YouTube Channel](your_youtube_link_here)
+- **Twitter**: [X (formally Twitter)](x.com/_makgamer)
+- **LinkedIn**: [Linkedin](https://pk.linkedin.com/in/makgamer)
+
+
+## 🏆 Achievements
+
+nothing as of now 
