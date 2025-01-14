@@ -51,8 +51,8 @@ Join our vibrant **[Discord community](https://discord.gg/6AG26JGvJA)** for insi
 
 ## 📫 Connect with Me
 
-- **YouTube**: [YouTube Channel](your_youtube_link_here)
-- **Twitter**: [X (formally Twitter)](x.com/_makgamer)
+- **YouTube**: [YouTube Channel](https://youtube.com/@m.a.kgamer)
+- **Twitter**: [X (formally Twitter)](https://x.com/_makgamer)
 - **LinkedIn**: [Linkedin](https://pk.linkedin.com/in/makgamer)
 
 
