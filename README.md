@@ -1,17 +1,17 @@
 # 👋 Hey, I'm M.A.KGAMER!
 
-I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on a journey to create awesome Discord bots and engaging gaming content. Currently a student, I'm diving deep into coding and gaming, balancing learning with creativity. Join me as I build, play, and share my adventures!
+I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on a journey to craft awesome Discord bots and engaging gaming content. As a student, I balance coding, gaming, and learning to fuel my creativity. Join me as I build, play, and share my adventures!
 
-🌟 **Join my [Discord community](https://discord.gg/6AG26JGvJA)** for updates, support, and fun conversations about bots, gaming, and more!
+🌟 **Join my [Discord community](https://discord.gg/6AG26JGvJA)** for updates, support, and fun chats about bots, gaming, and more!
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Currently working on**: Building feature-rich Discord bots with `discord.js`
+- 🌱 **Currently working on**: Feature-rich Discord bots using `discord.js`
 - 🎮 **Gaming passion**: Exploring new games and creating exciting content
-- 📚 **Learning**: Leveling up my skills in JavaScript, Python, and Java
-- 💡 **Fun fact**: I love blending my coding skills with my gaming creativity to make unique projects!
+- 📚 **Learning**: Leveling up in JavaScript, Python, and Java
+- 💡 **Fun fact**: I blend coding and gaming to create unique, interactive projects!
 
 ---
 
@@ -28,12 +28,23 @@ I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on
 ## 🛠️ Latest Projects
 
 - **Slasher Bot**  
-  A multipurpose Discord bot packed with features.  
+  A multipurpose Discord bot with moderation, fun, and utility features.  
   [Add to Your Server](https://discord.com/oauth2/authorize?client_id=1260853952593924147) | [View Source](https://github.com/makgamerofficial/slasher)
 
 - **Gaming Content**  
   Catch my latest gaming videos and live streams!  
   [YouTube Channel](https://youtube.com/@m.a.kgamer) | [Latest Video](https://youtube.com/@m.a.kgamer)
+
+---
+
+## 📌 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/makgamerofficial/slasher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=slasher&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Slasher Repo" />
+  </a>
+  <!-- Add more pinned repos as needed -->
+</div>
 
 ---
 
@@ -72,15 +83,31 @@ I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on
 
 ## 🏆 Achievements
 
-- 🛠️ Successfully launched **Slasher**, a multipurpose Discord bot
-- 📈 Growing my YouTube channel with consistent gaming content
-- 🔥 Maintained a coding streak on GitHub (check my stats above!)
+- 🛠️ Launched **Slasher**, a Discord bot serving [X] servers with [Y] users
+- 📈 Reached [Z] subscribers on YouTube with consistent gaming content
+- 🔥 Maintained a [X]-day coding streak on GitHub (see stats above!)
+
+---
+
+## 🤝 Contributions
+
+- **Open Source**: Contributed to [Project Name](https://github.com/repo) with bug fixes and features
+- **Community**: Active in my Discord server, helping users with bot setup and gaming tips
+- **Content**: Shared [X] gaming tutorials on YouTube to inspire new creators
+
+---
+
+## 💸 Support Me
+
+Love my work? Consider supporting me to keep the bots running and content flowing!  
+- [Patreon](https://patreon.com/makgamer) (or other platform, update link)
+- [Buy Me a Coffee](https://buymeacoffee.com/makgamer) (or other platform, update link)
 
 ---
 
 ## 💬 Let's Collaborate!
 
-Got ideas for a cool Discord bot, gaming content, or coding project? Reach out to me on [Discord](https://discord.gg/6AG26JGvJA) or [X](https://x.com/_makgamer). Let's create something awesome together!
+Got ideas for a Discord bot, gaming content, or coding project? Reach out on [Discord](https://discord.gg/6AG26JGvJA) or [X](https://x.com/_makgamer). Let's create something epic together!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Coding GIF" />
