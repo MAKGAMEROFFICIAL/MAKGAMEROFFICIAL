@@ -1,6 +1,6 @@
 # 👋 Hey, I'm M.A.KGAMER!
 
-I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on a journey to craft awesome Discord bots and engaging gaming content. As a student, I balance coding, gaming, and learning to fuel my creativity. Join me as I build, play, and share my adventures!
+I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging Discord bots, gaming content, and innovative web applications. As a student, I balance coding, gaming, and learning to fuel my creativity. Join me on this exciting journey of building, playing, and sharing!
 
 🌟 **Join my [Discord community](https://discord.gg/6AG26JGvJA)** for updates, support, and fun chats about bots, gaming, and more!
 
@@ -8,10 +8,10 @@ I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on
 
 ## 🚀 About Me
 
-- 🌱 **Currently working on**: Feature-rich Discord bots using `discord.js`
-- 🎮 **Gaming passion**: Exploring new games and creating exciting content
-- 📚 **Learning**: Leveling up in JavaScript, Python, and Java
-- 💡 **Fun fact**: I blend coding and gaming to create unique, interactive projects!
+- 🌱 **Currently working on**: Feature-rich Discord bots with `discord.js` and dynamic web apps with Next.js
+- 🎮 **Gaming passion**: Creating exciting gaming content and exploring new titles
+- 📚 **Learning**: Advancing skills in TypeScript, Next.js, SASS, JavaScript, Python, and Java
+- 💡 **Fun fact**: I fuse coding and gaming to build unique projects, from AI chatbots to interactive web apps!
 
 ---
 
@@ -27,23 +27,44 @@ I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on
 
 ## 🛠️ Latest Projects
 
+- **Main Site**  
+  My central hub showcasing my portfolio, projects, and content creation journey.  
+  [Visit Site](https://makgamer.asia/)
+
 - **Slasher Bot**  
-  A multipurpose Discord bot with moderation, fun, and utility features.  
+  A versatile Discord bot with moderation, utility, and fun features.  
   [Add to Your Server](https://discord.com/oauth2/authorize?client_id=1260853952593924147) | [View Source](https://github.com/makgamerofficial/slasher)
 
+- **Best AI Chat Services**  
+  A Next.js-powered platform offering AI chatbot experiences, image generation, and more.  
+  [Visit Site](https://ai.makgamer.asia/)
+
+- **Shapes AI Web**  
+  A dynamic site featuring AI chatbots, games, and customization options, built with Next.js and TypeScript.  
+  [Visit Site](https://shapes.ai.makgamer.asia/)
+
 - **Gaming Content**  
-  Catch my latest gaming videos and live streams!  
+  Exciting gaming videos and live streams to entertain and inspire.  
   [YouTube Channel](https://youtube.com/@m.a.kgamer) | [Latest Video](https://youtube.com/@m.a.kgamer)
+
+- **Tech Blogs**  
+  Insightful articles on AI, chatbots, gaming, and tech trends, covering Ben 10, Shapes AI, and more.  
+  [AI & Chatbot Blogs](https://ai.blog.makgamer.asia/) | [Ben 10 Blogs](https://ben10.blog.makgamer.asia/) | [Shapes AI Blogs](https://shapes.blog.makgamer.asia/) | [General Tech Blogs](https://blogs.makgamer.asia/)
 
 ---
 
 ## 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/makgamerofficial/slasher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=slasher&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Slasher Repo" />
+  <a href="https://github.com/makgamerofficial/slasher-public">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=slasher-public&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Slasher Repo" />
   </a>
-  <!-- Add more pinned repos as needed -->
+  <a href="https://github.com/makgamerofficial/discord-js-bot-with-slash-commands">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=discord-js-bot-with-slash-commands&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="AI Blog Repo" />
+  </a>
+  <a href="https://github.com/makgamerofficial/shapesinc-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=shapesinc-api&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Shapes AI Blog Repo" />
+  </a>
 </div>
 
 ---
@@ -51,11 +72,13 @@ I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on
 ## 🧰 Skills & Tools
 
 | **Category**           | **Details**                              |
-|-----------------------|------------------------------------------|
-| **Languages**         | JavaScript, Python, Java                |
-| **Frameworks**        | Discord.js, Node.js                     |
-| **Tools**             | Git, GitHub, Visual Studio Code         |
-| **Design**            | Figma (for bot UI/UX design)            |
+|------------------------|------------------------------------------|
+| **Frontend**           | JavaScript, TypeScript, Next.js, React, SASS, Tailwind CSS |
+| **Backend**            | Node.js, Discord.js                      |
+| **Languages**          | JavaScript, TypeScript, Python, Java     |
+| **Frameworks**         | Next.js, React, Node.js, Discord.js      |
+| **Tools**              | Git, GitHub, Visual Studio Code, Vercel, Netlify |
+| **Design**             | CSS, Tailwind CSS, SASS (for UI/UX web design) |
 
 ---
 
@@ -83,31 +106,31 @@ I'm a **passionate beginner YouTuber, gamer, content creator, and developer** on
 
 ## 🏆 Achievements
 
-- 🛠️ Launched **Slasher**, a Discord bot serving [X] servers with [Y] users
-- 📈 Reached [Z] subscribers on YouTube with consistent gaming content
-- 🔥 Maintained a [X]-day coding streak on GitHub (see stats above!)
+- 🛠️ Launched **Slasher**, a Discord bot serving multiple servers with thousands of users
+- 🌐 Deployed AI-driven web platforms using Next.js, showcasing chatbot and tech expertise
+- 📈 Grew to 300+ YouTube subscribers with consistent, high-quality gaming content
+- 🔥 Maintained an active GitHub coding streak (check stats above!)
 
 ---
 
 ## 🤝 Contributions
 
-- **Open Source**: Contributed to [Project Name](https://github.com/repo) with bug fixes and features
-- **Community**: Active in my Discord server, helping users with bot setup and gaming tips
-- **Content**: Shared [X] gaming tutorials on YouTube to inspire new creators
+- **Open Source**: Contributed to Shapes AI documentation and community resources
+- **Community**: Active in my Discord server, assisting with bot setup and gaming tips
+- **Content**: Inspiring new creators through YouTube gaming and tech content
 
 ---
 
 ## 💸 Support Me
 
-Love my work? Consider supporting me to keep the bots running and content flowing!  
-- [Patreon](https://patreon.com/makgamer) (or other platform, update link)
-- [Buy Me a Coffee](https://buymeacoffee.com/makgamer) (or other platform, update link)
+Love my work? Help keep my bots running and content flowing!  
+- [Patreon](https://patreon.com/makgamerofficial)
 
 ---
 
 ## 💬 Let's Collaborate!
 
-Got ideas for a Discord bot, gaming content, or coding project? Reach out on [Discord](https://discord.gg/6AG26JGvJA) or [X](https://x.com/_makgamer). Let's create something epic together!
+Have ideas for a Discord bot, gaming content, or web project? Connect with me on [Discord](https://discord.gg/6AG26JGvJA) or [X](https://x.com/_makgamer). Let's build something awesome together!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Coding GIF" />
