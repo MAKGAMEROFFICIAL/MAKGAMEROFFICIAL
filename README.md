@@ -8,9 +8,9 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 
 ## 🚀 About Me
 
-- 🌱 **Currently working on**: Feature-rich Discord bots with `discord.js` and dynamic web apps with Next.js
-- 🎮 **Gaming passion**: Creating exciting gaming content and exploring new titles
-- 📚 **Learning**: Advancing skills in TypeScript, Next.js, SASS, JavaScript, Python, and Java
+- 🌱 **Currently working on**: Feature-rich Discord bots with `discord.js` and dynamic web apps with Next.js  
+- 🎮 **Gaming passion**: Creating exciting gaming content and exploring new titles  
+- 📚 **Learning**: Advancing skills in TypeScript, Next.js, SASS, JavaScript, Python, and Java  
 - 💡 **Fun fact**: I fuse coding and gaming to build unique projects, from AI chatbots to interactive web apps!
 
 ---
@@ -18,9 +18,9 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makgamerofficial&show_icons=true&theme=dark&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makgamerofficial&layout=compact&theme=dark&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=makgamerofficial&theme=dark&background=0d1117&fire=00ff99&ring=00ff99&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true" alt="Streak Stats" />
+  <img src="https://git-hub-stats-omega.vercel.app/api?username=makgamerofficial&show_icons=true&theme=dark&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://git-hub-stats-omega.vercel.app/api/top-langs/?username=makgamerofficial&layout=compact&theme=dark&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://git-hub-stats-omega.vercel.app/api/streak-stats?user=makgamerofficial&theme=dark&background=0d1117&fire=00ff99&ring=00ff99&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
@@ -57,13 +57,13 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 
 <div align="center">
   <a href="https://github.com/makgamerofficial/slasher-public">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=slasher-public&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Slasher Repo" />
+    <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=slasher-public&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Slasher Repo" />
   </a>
   <a href="https://github.com/makgamerofficial/discord-js-bot-with-slash-commands">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=discord-js-bot-with-slash-commands&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="AI Blog Repo" />
+    <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=discord-js-bot-with-slash-commands&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="AI Blog Repo" />
   </a>
   <a href="https://github.com/makgamerofficial/shapesinc-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=makgamerofficial&repo=shapesinc-api&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Shapes AI Blog Repo" />
+    <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=shapesinc-api&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Shapes AI Blog Repo" />
   </a>
 </div>
 
@@ -106,17 +106,17 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 
 ## 🏆 Achievements
 
-- 🛠️ Launched **Slasher**, a Discord bot serving multiple servers with thousands of users
-- 🌐 Deployed AI-driven web platforms using Next.js, showcasing chatbot and tech expertise
-- 📈 Grew to 300+ YouTube subscribers with consistent, high-quality gaming content
+- 🛠️ Launched **Slasher**, a Discord bot serving multiple servers with thousands of users  
+- 🌐 Deployed AI-driven web platforms using Next.js, showcasing chatbot and tech expertise  
+- 📈 Grew to 300+ YouTube subscribers with consistent, high-quality gaming content  
 - 🔥 Maintained an active GitHub coding streak (check stats above!)
 
 ---
 
 ## 🤝 Contributions
 
-- **Open Source**: Contributed to Shapes AI documentation and community resources
-- **Community**: Active in my Discord server, assisting with bot setup and gaming tips
+- **Open Source**: Contributed to Shapes AI documentation and community resources  
+- **Community**: Active in my Discord server, assisting with bot setup and gaming tips  
 - **Content**: Inspiring new creators through YouTube gaming and tech content
 
 ---
