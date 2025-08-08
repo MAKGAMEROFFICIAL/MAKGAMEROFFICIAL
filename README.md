@@ -33,7 +33,7 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 
 - **Slasher Bot**  
   A versatile Discord bot with moderation, utility, and fun features.  
-  [Add to Your Server](https://discord.com/oauth2/authorize?client_id=1260853952593924147) | [View Source](https://github.com/makgamerofficial/slasher)
+  [Add to Your Server](https://discord.com/oauth2/authorize?client_id=1260853952593924147) | [View Source](https://github.com/makgamerofficial/slasher-public)
 
 - **Best AI Chat Services**  
   A Next.js-powered platform offering AI chatbot experiences, image generation, and more.  
