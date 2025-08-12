@@ -85,19 +85,19 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/makgamerofficial">
+  <a href="https://makgamer.asia/github">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://youtube.com/@m.a.kgamer">
+  <a href="https://makgamer.asia/youtube">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://x.com/_makgamer">
+  <a href="https://makgamer.asia/x">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://pk.linkedin.com/in/makgamer">
+  <a href="https://makgamer.asia/linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/6AG26JGvJA">
+  <a href="https://makgamer.asia/discord">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
