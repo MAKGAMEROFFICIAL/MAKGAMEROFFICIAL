@@ -136,3 +136,4 @@ Have ideas for a Discord bot, gaming content, or web project? Connect with me on
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Coding GIF" />
   <p><i>"Code, game, create, repeat!"</i></p>
 </div>
+
