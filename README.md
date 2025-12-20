@@ -56,15 +56,16 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 ## 📌 Featured Repositories
 
 <div align="center">
+  <a href="https://github.com/MAKGAMEROFFICIAL/r2-bucket-transfer">
+    <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=r2-bucket-transfer&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Cloudflare R2-bucket-transfer" />
+  </a>
   <a href="https://github.com/makgamerofficial/slasher-public">
     <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=slasher-public&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Slasher Repo" />
   </a>
   <a href="https://github.com/makgamerofficial/discord-js-bot-with-slash-commands">
-    <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=discord-js-bot-with-slash-commands&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="AI Blog Repo" />
+    <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=discord-js-bot-with-slash-commands&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="discord js bot with slash commands" />
   </a>
-  <a href="https://github.com/makgamerofficial/shapesinc-api">
-    <img src="https://git-hub-stats-omega.vercel.app/api/pin/?username=makgamerofficial&repo=shapesinc-api&theme=dark&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="Shapes AI Blog Repo" />
-  </a>
+  
 </div>
 
 ---
