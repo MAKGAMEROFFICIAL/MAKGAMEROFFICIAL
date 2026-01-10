@@ -20,7 +20,7 @@ I'm a **passionate YouTuber, gamer, and full-stack developer** crafting engaging
 <div align="center">
   <img src="https://git-hub-stats-omega.vercel.app/api?username=makgamerofficial&show_icons=true&theme=gradient&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://git-hub-stats-omega.vercel.app/api/top-langs/?username=makgamerofficial&show_icons=true&layout=compact&theme=gradient&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=makgamerofficial&show_icons=true&theme=gradient&background=0d1117&fire=00ff99&ring=00ff99&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true" />
+ <img src="https://git-hub-stats-omega.vercel.app?user=makgamerofficial&show_icons=true&theme=gradient&background=0d1117&fire=00ff99&ring=00ff99&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true" />
 
 
 ---
