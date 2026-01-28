@@ -75,6 +75,18 @@ Currently, I am expanding into **animation** and directing my own professional s
     <img src="https://img.shields.io/badge/MongoDB-Schema_Design_Patterns-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Schema Design Patterns" />
   </a>
   
+  <br/>
+
+  <a href="https://www.credly.com/badges/797f66fc-77bc-45b7-9187-2524b03a98f9">
+    <img src="https://img.shields.io/badge/Python_Essentials_1-Verified-4B32C3?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials 1" />
+  </a>
+  <a href="https://www.credly.com/badges/9c3e50a6-de79-4595-9597-e48f317b77ea">
+    <img src="https://img.shields.io/badge/Python_Essentials_2-Verified-4B32C3?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials 2" />
+  </a>
+  <a href="https://www.credly.com/badges/bc992695-5755-44b0-bbfa-f4e2e6a90892">
+    <img src="https://img.shields.io/badge/JavaScript_Essentials_1-Verified-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Essentials 1" />
+  </a>
+  
   <br/><br/>
   
   <a href="https://www.credly.com/users/makgamer">
