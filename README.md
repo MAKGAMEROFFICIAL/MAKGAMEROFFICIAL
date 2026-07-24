@@ -16,6 +16,14 @@ Currently, I am expanding into **animation** and directing my own professional s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=makgamerofficial&theme=gradient&background=0d1117&fire=00ff99&ring=00ff99&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true" alt="Streak" height="150" />
   <br/>
   <img src="https://git-hub-stats-omega.vercel.app/api/top-langs/?username=makgamerofficial&show_icons=true&layout=compact&theme=gradient&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
+
+  <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=makgamerofficial&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+
 </div>
 
 ---
